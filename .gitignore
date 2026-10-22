@@ -1,0 +1,6 @@
+﻿.env
+venv/
+storage/bot.db
+storage/console.log
+.idea/
+__pycache__/
